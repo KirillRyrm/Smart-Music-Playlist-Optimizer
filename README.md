@@ -2,7 +2,6 @@
 
 > Graph-based playlist ordering that minimizes perceptual discontinuity between songs — modeled as a Traveling Salesman Problem variant.
 
-**Course:** Algorithmics (MTAT.03.238) — University of Tartu, Institute of Computer Science  
 **Authors:** Kirill Ryrmak, Heigo Tornik, Erik Presnov
 
 ---
